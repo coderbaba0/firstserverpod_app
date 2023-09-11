@@ -1,6 +1,6 @@
 # firstserverpod_app
 
-check for firs server creation with serverpod and flutter app and testing server data in postman API with server
+check for first server creating with serverpod and flutter app and testing server data in postman API with server
 
 for more gon https://flutterfever.com
 
